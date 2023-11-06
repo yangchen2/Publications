@@ -9,7 +9,7 @@ Published peer-reviewed publications
 
 3. Nakatsuji T, Brinton SL, Cavagnero KJ, O’Neil AM, **Chen Y**, Dokoshi T, Butcher AM, Osuoji O, Shafiq F, Espinoza JL, Dupont CL, Hata TR, Gallo RL. _Competition between host antimicrobial peptides and commensal bacteria enables survival of Staphylococcus aureus on skin with type 2 inflammation_. Cell Reports. 2023 May 30;42(5):112494. [doi: 10.1016/j.celrep.2023.112494](https://pubmed.ncbi.nlm.nih.gov/37167061/). PMID: 37167061; PMCID: PMC10303920. [PDF](PDFs/Nakatsiji_2023_CellRep.pdf)
 
-4. **Chen Y**, St. Leger J, Sakamaki K, Mena L, Rotstein D, Grigg ME. _Fatal hepatic Sarcocystosis in three captive and one free-ranging pinniped_. Veterinary Parasitology. [doi: 10.1016/j.ijppaw.2023.10.010](https://www.sciencedirect.com/science/article/pii/S2213224423000871?via%3Dihub). [PDF](Chen_2023_IJP.pdf)
+4. **Chen Y**, St. Leger J, Sakamaki K, Mena L, Rotstein D, Grigg ME. _Fatal hepatic Sarcocystosis in three captive and one free-ranging pinniped_. Veterinary Parasitology. [doi: 10.1016/j.ijppaw.2023.10.010](https://www.sciencedirect.com/science/article/pii/S2213224423000871?via%3Dihub). [PDF](PDFs/Chen_2023_IJP.pdf)
 
 Works currently in peer-review:
 
