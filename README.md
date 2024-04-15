@@ -11,8 +11,7 @@ Published peer-reviewed publications
 
 4. **Chen Y**<sup>1</sup>, St. Leger J<sup>1</sup>, Sakamaki K, Mena L, Rotstein D, Grigg ME. _Fatal hepatic Sarcocystosis in three captive and one free-ranging pinniped_. Veterinary Parasitology. [doi: 10.1016/j.ijppaw.2023.10.010](https://www.sciencedirect.com/science/article/pii/S2213224423000871?via%3Dihub). [PDF](PDFs/Chen_2023_IJP.pdf)
 
-5. Dokoshi T, **Chen Y**, Cavagnero KJ, Rahman G, Brinton S, Schwarz H, Nakamura Y, Li F, Salzman N, Knight R, Gallo RL, _Dermal injury disrupts the intestinal microbiome and immune homeostasis_.
-Accepted to Nature Communications.
+5. Dokoshi T, **Chen Y**, Cavagnero KJ, Rahman G, Brinton S, Schwarz H, Nakamura Y, Li F, Salzman N, Knight R, Gallo RL, _Dermal injury disrupts the intestinal microbiome and immune homeostasis_. [doi: 10.1038/s41467-024-47072-3](https://www.nature.com/articles/s41467-024-47072-3#citeas). PMID: 38589392 PMCID: PMC11001995 [PDF](PDFs/Dokoshi_2024_NatComms.pdf)
 
 Works in review 
 
