@@ -16,10 +16,10 @@ Published peer-reviewed publications
 
 6. De Pessemier B, Lopez CD, Taelman S, Verdonck M, **Chen Y**, Stockman A, Lambert J, Van de Wiele T, Callewaert C. _Comparative whole metagenome analysis in lesional and nonlesional scalp areas of patients with Psoriasis capitis and healthy individuals._ [doi: 10.1016/j.jid.2024.07.020](https://www.sciencedirect.com/science/article/pii/S0022202X24019845). PMID: 39128495. [PDF](PDFs/DePessemier_2024_JID.pdf)
 
+7. Guiccione C<sup>1</sup>, Patel L<sup>1</sup>, Tomofuji Yoshihiko, Martino Cameron, McDonald D, Gonzalez A, Sepich-Poore GD, Sonehara K, **Chen Y**, Dilmore AH, Damle N, Nakatsuji T, Gallo RL, Okada Y, Curtius K, Knight R. _Incomplete human reference genomes can drive false sex biases and expose patient-identifying human sequences in metagenomic data_. Accepted to Nature Microbiology. 2024.
+
+8. Chan H, Li Fengwu, Dokoshi T, Cavagnero KJ, Qing L, **Chen Y**, Aguilera C, Nakatsuji T, Liu E, Indra A, Yang D, Ottaviani V, Numata T, Williams KJ,  Chiu IM, Bensinger SJ, Chen W, Gallo RL. _Psychological stress increases susceptibility to Staphylococcus aureus infection by the action of TGFβ to suppress immune-acting fibroblasts._ Accepted to Science Immunology. 2024
+
 Works in review 
 
-7. Rahman G, Morton JT, Martino C, Sepich-Poore GD, Allaband C, Guccione C, **Chen Y**, Hakim D, Estaki M, Knight R. _BIRDMAn: A Bayesian differential abundance framework that enables robust inference of host-microbe associations_. BioRxiv. 2023 Feb 2. [doi: 10.1101/2023.01.30.526328](https://www.biorxiv.org/content/10.1101/2023.01.30.526328v1). [PDF](PDFs/Rahman_2023_BioRxiv.pdf)
-
-8. Guiccione C<sup>1</sup>, Patel L<sup>1</sup>, Tomofuji Yoshihiko, Martino Cameron, McDonald D, Gonzalez A, Sepich-Poore GD, Sonehara K, **Chen Y**, Dilmore AH, Damle N, Nakatsuji T, Gallo RL, Okada Y, Curtius K, Knight R. _Incomplete human reference genomes can drive false sex biases and expose patient-identifying human sequences in metagenomic data_. In review at Nature Communications. 2024.
-
-9. Chan H, Li Fengwu, Dokoshi T, Cavagnero KJ, Qing L, **Chen Y**, Aguilera C, Nakatsuji T, Liu E, Indra A, Yang D, Ottaviani V, Numata T, Williams KJ,  Chiu IM, Bensinger SJ, Chen W, Gallo RL. _Psychological stress increases susceptibility to Staphylococcus aureus infection by the action of TGFβ to suppress immune-acting fibroblasts._ In review at Cell. 2024
+9. Rahman G, Morton JT, Martino C, Sepich-Poore GD, Allaband C, Guccione C, **Chen Y**, Hakim D, Estaki M, Knight R. _BIRDMAn: A Bayesian differential abundance framework that enables robust inference of host-microbe associations_. BioRxiv. 2023 Feb 2. [doi: 10.1101/2023.01.30.526328](https://www.biorxiv.org/content/10.1101/2023.01.30.526328v1). [PDF](PDFs/Rahman_2023_BioRxiv.pdf)
